@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SmartKid
+comment1.params=
+comment1.target=SmartKid()
+comment2.params=myGrades
+comment2.target=SmartKid(double[])
+comment3.params=
+comment3.target=double\ calcGPA()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

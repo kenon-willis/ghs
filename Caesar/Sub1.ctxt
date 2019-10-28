@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Sub1
+comment1.params=
+comment1.target=void\ main()
+comment2.params=phrase
+comment2.target=java.lang.String\ subEncrypt(java.lang.String)
+comment3.params=phrase
+comment3.target=java.lang.String\ subDecrypt(java.lang.String)
+numComments=4

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Bee
+comment1.params=
+comment1.target=Bee()
+comment2.params=s\ n
+comment2.target=Bee(int,\ java.lang.String)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
